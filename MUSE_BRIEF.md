@@ -29,7 +29,7 @@ It is information, not advice. It never tells anyone to buy or sell.
 | Handle | **@marketsinfive**. If taken, in this order: `@marketsin5`, `@marketsinfive_`, `@marketsinfivehq`. Same handle on every platform if possible: check all platforms first, then pick the first handle free on all of them |
 | Tagline | **The market, explained in five minutes.** |
 | Bio link | **`https://marketsinfive.com/links?src=<platform>`** (the link page: app, website, every live channel), e.g. `?src=instagram`, `?src=tiktok`, `?src=youtube`. The `src` tag tells us which platform sends visitors. Where a platform allows more links, add `https://app.marketsinfive.com` too |
-| Sign-up email | the platform's own alias, e.g. `youtube@marketsinfive.com`, `tiktok@marketsinfive.com` (all arrive in the owner's `social@marketsinfive.com` mailbox). Ask the owner which aliases exist before you use one |
+| Sign-up email | the platform's own alias, all live since 2026-10-17 and all delivered to the owner's `social@marketsinfive.com` mailbox: `youtube@`, `instagram@` (Threads uses it too), `facebook@`, `tiktok@`, `x@`, `twitch@`, `reddit@`, `bluesky@`, `stocktwits@`, `linkedin@`, `discord@` (all `@marketsinfive.com`). Use no other address. After sign-up, ask the owner to switch off the platform's email notifications (the mailbox takes 200 messages a day) |
 | Category | Media / news company (Instagram, Facebook, TikTok business); Twitch: "Just Chatting" for the broadcast |
 | Language / region | English; content about US markets |
 
