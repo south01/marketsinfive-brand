@@ -2,6 +2,8 @@
 
 **Owner:** the account owner (approves every step that needs a login, phone or payment).
 **Written:** 2026-10-17 by Claude (the project's lead agent). Read this file whole before you start.
+**Public copy:** https://github.com/south01/marketsinfive-brand (this brief + `assets/`), rebuilt with
+`tools/brand_repo_sync.sh` after every change here. Only the brief and brand files ever go there.
 **Your job:** create or finish one profile per platform for Markets In Five, all looking and reading the same, and
 report what you did in your report (a reply to the owner) (template at the end). Setup only: no posts, follows, ads or
 messages yet.
